@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <Consum>
+		<direccion>Av. de les Corts Valencianes, 22</direccion>
+		<poblacion>Valencia</poblacion>
+		<provincia>Valencia</provincia>
+		<codigopostal>46015</codigopostal>
+		<geolocalizacion>latitud</geolocalizacion>
+		<geolocalizacion>39.491272712433236</geolocalizacion>
+		<geolocalizacion>longitud</geolocalizacion>
+		<geolocalizacion>-0.3991477</geolocalizacion>
+		<productos>
+			<carniceria>
+				<nombre>ternera para guisar</nombre>
+				<descripcion>vaca</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>6.5</precioventa>
+				<fechaEntrada>20/05/2023 1:00 p.m</fechaEntrada>
+				<iniciopromo>21/05/2023 9:00 a.m</iniciopromo>
+				<finpromo>25/05/2023 9:00 p.m</finpromo>
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</carniceria>
+			<carniceria>
+				<nombre>Cinta de lomo</nombre>
+				<descripcion>cerdo</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>5.5</precioventa>
+				<fechaEntrada>20/05/2023 1:00 p.m</fechaEntrada>
+				<iniciopromo>25/05/2023 9:00 a.m</iniciopromo>
+				<finpromo>31/05/2023 9:00 p.m</finpromo>
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</carniceria>
+			<carniceria>
+				<nombre>pechuga de pollo</nombre>
+				<descripcion>pollo</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>7.5</precioventa>
+				<fechaEntrada>20/05/2023 1:00 p.m</fechaEntrada>
+				<iniciopromo />
+				<finpromo />
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</carniceria>
+			<fruteria>
+				<nombre>tomate canario</nombre>
+				<descripcion>tomate</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>3.25</precioventa>
+				<fechaEntrada>20/05/2023 11:00 a.m</fechaEntrada>
+				<iniciopromo />
+				<finpromo />
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</fruteria>
+			<fruteria>
+				<nombre>Zanahoria a granel</nombre>
+				<descripcion>Zanahoria</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>2.95</precioventa>
+				<fechaEntrada>20/05/2023 11:00 a.m</fechaEntrada>
+				<iniciopromo />
+				<finpromo />
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</fruteria>
+			<fruteria>
+				<nombre>champiñones</nombre>
+				<descripcion>champiñones enteros</descripcion>
+				<origen>España</origen>
+				<perecedero>true</perecedero>
+				<precioventa>1.6</precioventa>
+				<fechaEntrada>20/05/2023 11:00 a.m</fechaEntrada>
+				<iniciopromo />
+				<finpromo />
+				<unidadmedidas>KG</unidadmedidas>
+				<productoadquirido>true</productoadquirido>
+			</fruteria>
+		</productos>
+	</Consum>

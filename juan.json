@@ -1,0 +1,185 @@
+{
+    "familycash": {
+        "direccion": "carrer pont trencat, 1",
+        "poblacion": "burjassot",
+        "provincia": "valencia",
+        "codigopostal": 46100,
+        "geolocalizacion": [
+            "latitud", 39.500072243368756, 
+            "longitud", -0.40428470353381907
+        ],
+        "productos": [
+            {
+                "carniceria": [ 
+                    {
+                    "nombre": "ternera para guisar",
+                    "descripcion": "vaca",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioventa": 8.50,
+                    "fechaEntrada": "20/05/2023 8:00 a.m",
+                    "iniciopromo": "20/05/2023 9:00 a.m",
+                    "finpromo": "27/05/2023 9:00 p.m",
+                    "unidad de medidas": "KG",
+                    "productoadquirido": true
+                },
+                {
+                   "nombre":"Cinta de lomo",
+                   "descripcion": "cerdo",
+                   "origen":"España",
+                   "perecedero": true,
+                   "precioventa": 6.50,
+                   "fechaEntrada": "20/05/2023 8:00 a.m",
+                   "iniciopromo": "20/05/2023 9:00 a.m",
+                   "finpromo": "27/05/2023 9:00 p.m",
+                   "unidad de medidas": "KG",
+                   "productoadquirido": true
+
+                },
+                {
+                    "nombre": "pechuga de pollo",
+                    "descripcion":"pollo",
+                    "origen": "España",
+                    "perecedero":true,
+                    "precioventa": 6.50,
+                    "fechaEntrada": "20/05/2023 8:00 a.m",
+                    "iniciopromo": "20/05/2023 9:00 a.m",
+                    "finpromo": "27/05/2023 9:00 p.m",
+                    "unidad de medidas": "KG",
+                    "productoadquirido": true
+ 
+                 }
+                 ],
+                "fruteria": [
+                    {
+                        "nombre": "tomate canario",
+                        "descripcion":"tomate",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 2.50,
+                        "fechaEntrada": "20/05/2023 8:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true   
+                    },
+                    {
+                        "nombre": "Zanahoria a granel",
+                        "descripcion":"Zanahoria",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 2.75,
+                        "fechaEntrada": "20/05/2023 8:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true  
+                    },
+                    {
+                        "nombre": "champiñones",
+                        "descripcion":"champiñones enteros",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 1.50,
+                        "fechaEntrada": "20/05/2023 8:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true  
+                    }
+        ]        
+        }
+    ]
+    },
+    "Consum": {
+        "direccion": "Av. de les Corts Valencianes, 22",
+        "poblacion": "Valencia",
+        "provincia": "Valencia",
+        "codigopostal": 46015,
+        "geolocalizacion": [
+            "latitud", 39.491272712433236,  
+            "longitud", -0.3991477
+        ],
+        "productos":
+            {
+                "carniceria": [ 
+                    {
+                    "nombre": "ternera para guisar",
+                    "descripcion": "vaca",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioventa": 6.50,
+                    "fechaEntrada": "20/05/2023 1:00 p.m",
+                    "iniciopromo": "21/05/2023 9:00 a.m",
+                    "finpromo": "25/05/2023 9:00 p.m",
+                    "unidad de medidas": "KG",
+                    "productoadquirido": true
+                },
+                {
+                "nombre":"Cinta de lomo",
+                "descripcion": "cerdo",
+                "origen":"España",
+                "perecedero": true,
+                "precioventa": 5.50,
+                "fechaEntrada": "20/05/2023 1:00 p.m",
+                "iniciopromo": "25/05/2023 9:00 a.m",
+                "finpromo": "31/05/2023 9:00 p.m",
+                "unidad de medidas": "KG",
+                "productoadquirido": true
+
+                },
+                {
+                    "nombre": "pechuga de pollo",
+                    "descripcion":"pollo",
+                    "origen": "España",
+                    "perecedero":true,
+                    "precioventa": 7.50,
+                    "fechaEntrada": "20/05/2023 1:00 p.m",
+                    "iniciopromo": null,
+                    "finpromo": null,
+                    "unidad de medidas": "KG",
+                    "productoadquirido": true
+
+                }
+                ],
+                "fruteria": [
+                    {
+                        "nombre": "tomate canario",
+                        "descripcion":"tomate",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 3.25,
+                        "fechaEntrada": "20/05/2023 11:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true   
+                    },
+                    {
+                        "nombre": "Zanahoria a granel",
+                        "descripcion":"Zanahoria",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 2.95,
+                        "fechaEntrada": "20/05/2023 11:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true  
+                    },
+                    {
+                        "nombre": "champiñones",
+                        "descripcion":"champiñones enteros",
+                        "origen": "España",
+                        "perecedero":true,
+                        "precioventa": 1.60,
+                        "fechaEntrada": "20/05/2023 11:00 a.m",
+                        "iniciopromo": null,
+                        "finpromo": null,
+                        "unidad de medidas": "KG",
+                        "productoadquirido": true  
+                    } 
+                ]   
+            }      
+    }
+}
